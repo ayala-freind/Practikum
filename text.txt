@@ -1,2 +1,15 @@
+<<<<<<< HEAD
 nice********
 --------------777777777777----------------
+=======
+hello world!
+hello world!
+hello world!
+hello world!
+hello world!
+hello world!
+hello world!
+hello world!
+
+שלום עולם
+>>>>>>> 17db79ac58a36c437cf7b53e24b46334231292e8
