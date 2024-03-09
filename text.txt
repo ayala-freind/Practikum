@@ -12,5 +12,9 @@ hello world!
 hello world!
 
 שלום עולם
+<<<<<<< HEAD
 >>>>>>> 17db79ac58a36c437cf7b53e24b46334231292e8
 dfghjklkhjggfhjk!!!!!!!!!!!!!!!!!!!!!!!!!!!
+=======
+1234567
+>>>>>>> 1de4e9b5c08ce44afc0b52f9c49139ebe9703f68
