@@ -7,6 +7,4 @@ hello world!
 hello world!
 hello world!
 
-שלום עולם
-1234567
-wow
+
