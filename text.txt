@@ -17,5 +17,11 @@ dfghjklkhjggfhjk!!!!!!!!!!!!!!!!!!!!!!!!!!!
 hello ayala
 123
 
+<<<<<<< HEAD
 ayala
 >>>>>>> 92f842dcf72e98ee2fc10aa968c3ee069132ddda
+=======
+okp
+
+ayala
+>>>>>>> ad8e63f (qwe)
